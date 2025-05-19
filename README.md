@@ -8,14 +8,14 @@ Sobre o projeto
 
 Este repositório contém vários scripts independentes de automação, incluindo:
 
-- *baixador_arquivos.py**: Baixa todos os arquivos de uma extensão específica (.zip, .pdf, .jpg, etc) de uma página web, salvando na pasta desejada.
+- *baixador_arquivos.py*: Baixa todos os arquivos de uma extensão específica (.zip, .pdf, .jpg, etc) de uma página web, salvando na pasta desejada.
 - **execute**: pip install requests beautifulsoup4 tqdm
-- *organizador_arquivos.py**: Organiza arquivos em subpastas, separando por palavras-chave no nome do arquivo.
-- *renomeador_em_massa.py**: Renomeia arquivos em massa, aplicando prefixos, sufixos e numeração sequencial.
-- *descompactador_automatico.py**: Descompacta todos os arquivos .zip da pasta, cada um em sua própria subpasta.
-- *conversor_png_jpg.py: Converte todas as imagens .png da pasta para .jpg usando Pillow.
+- *organizador_arquivos.py*: Organiza arquivos em subpastas, separando por palavras-chave no nome do arquivo.
+- *renomeador_em_massa.py*: Renomeia arquivos em massa, aplicando prefixos, sufixos e numeração sequencial.
+- *descompactador_automatico.py*: Descompacta todos os arquivos .zip da pasta, cada um em sua própria subpasta.
+- *conversor_png_jpg.py*: Converte todas as imagens .png da pasta para .jpg usando Pillow.
 - **execute**: pip install pillow
-- *buscador_duplicados.py**: Procura e lista arquivos duplicados por conteúdo, usando hash.
+- *buscador_duplicados.py*: Procura e lista arquivos duplicados por conteúdo, usando hash.
 
 Você pode adaptar esses scripts para projetos pessoais, estudos, organização de arquivos ou como base para automações mais avançadas!
 
